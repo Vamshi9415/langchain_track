@@ -1,0 +1,9 @@
+langchain
+ipykernel
+dotenv
+langchain_community
+langchain_huggingface
+sentence-transformers
+ipywidgets
+pypdf
+pymupdf
